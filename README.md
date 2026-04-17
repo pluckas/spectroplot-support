@@ -1,4 +1,4 @@
-# Privacy Policy for SpectroPlot
+# SpectroPlot
 
 **Effective Date:** April 2026
 
