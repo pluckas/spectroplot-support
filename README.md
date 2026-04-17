@@ -36,10 +36,9 @@ For questions or support, contact:
 
 astrotransit.support@icloud.com
 
-## Privacy Policy
-Astro Transit does not collect, store, transmit, or share any personal data.
-The application may access network services only to retrieve astronomical object coordinates from the SIMBAD astronomical database operated by the Centre de Données astronomiques de Strasbourg (CDS), France. No user information is transmitted or stored.
-Astro Transit does not use analytics, tracking technologies, advertising frameworks, or third-party data collection.
+## Privacy Policy - Summary
+SpectroPlot does not collect, store, transmit, or share any personal data.
+
 
 
 
