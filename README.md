@@ -1,6 +1,6 @@
 # SpectroPlot
 
-SpectroPlot is a macOS application for viewing and analysing astronomical pectroscopic data.
+SpectroPlot is a macOS application for viewing and analysing astronomical spectroscopic data.
 
 It allows users to open and inspect spectra, compare profiles, and examine wavelength and intensity behaviour in a clear and interactive way.
 
