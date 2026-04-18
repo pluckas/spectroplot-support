@@ -1,34 +1,10 @@
 # SpectroPlot
 
-**Effective Date:** April 2026
+SpectroPlot is a macOS application for viewing and analysing astronomical pectroscopic data.
 
-SpectroPlot is a macOS application for viewing and analysing spectroscopic data. It does not collect, store, or share any personal information.
+It allows users to open and inspect spectra, compare profiles, and examine wavelength and intensity behaviour in a clear and interactive way.
 
-## Data Collection
-
-SpectroPlot does not collect any personal data.
-
-It does not:
-- Require user accounts
-- Track usage
-- Use analytics
-- Display ads
-
-## Local Data
-
-All data used by SpectroPlot is stored locally on your device and is not transmitted externally.
-
-## Network Access
-
-SpectroPlot does not require internet access for its core functionality.
-
-## Third-Party Services
-
-SpectroPlot does not use third-party services that collect user data.
-
-## Changes
-
-This policy may be updated in future versions.
+The application is designed for local use and does not require user accounts or cloud-based storage.
 
 ## Support
 
@@ -36,9 +12,6 @@ For questions or support, contact:
 
 astrotransit.support@icloud.com
 
-## Privacy Policy - Summary
-SpectroPlot does not collect, store, transmit, or share any personal data.
+## Privacy Policy
 
-
-
-
+SpectroPlot does not collect, store, transmit, or share any personal data. The application operates locally on your device and does not require network access for its core functionality. No user information is transmitted or stored. SpectroPlot does not use analytics, tracking technologies, advertising frameworks, or third-party data collection.
