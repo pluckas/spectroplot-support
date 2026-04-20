@@ -7,7 +7,7 @@ It allows users to open and inspect spectra, compare profiles, and examine wavel
 The application is designed for local use and does not require user accounts or cloud-based storage.
 
 ## Disclaimer
-SpectroLog is provided for informational purposes only.
+SpectroPlot is provided for informational purposes only.
 No warranty is made regarding the accuracy, completeness, or reliability of any data displayed or managed by the application.
 The software may contain errors or defects, and the developer accepts no liability for any loss or consequences arising from its use.
 Users are responsible for verifying all information before relying on it for scientific or observational purposes.
