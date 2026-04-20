@@ -18,3 +18,7 @@ astrotransit.support@icloud.com
 ## Privacy Policy
 
 SpectroPlot does not collect, store, transmit, or share any personal data. The application operates locally on your device and does not require network access for its core functionality. No user information is transmitted or stored. SpectroPlot does not use analytics, tracking technologies, advertising frameworks, or third-party data collection.
+
+## Acknowledgements
+
+Inspired by Tim Lester's SpectroPlot for Windows application.
