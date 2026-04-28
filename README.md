@@ -11,8 +11,7 @@ Users are responsible for verifying all information before relying on it for sci
 
 ## User Guide
 
-A basic user guide can be found here:
-https://pluckas.github.io/spectroplot-support/SpectroPlot_UserGuide.pdf
+[Access the SpectroPlot User Guide (PDF)](https://pluckas.github.io/spectroplot-support/SpectroPlot_UserGuide.pdf)
 
 ## Support
 
