@@ -9,6 +9,11 @@ No warranty is made regarding the accuracy, completeness, or reliability of any 
 The software may contain errors or defects, and the developer accepts no liability for any loss or consequences arising from its use.
 Users are responsible for verifying all information before relying on it for scientific or observational purposes.
 
+## User Guide
+
+A basic user guide can be found here:
+https://pluckas.github.io/spectroplot-support/SpectroPlot_UserGuide.pdf
+
 ## Support
 
 For questions or support, contact:
