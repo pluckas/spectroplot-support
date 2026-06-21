@@ -94,37 +94,7 @@ Spectro Plot uses standard macOS tabs that allow individual views to be detached
 
 ## Saving plots
 
-Spectro Plot does not include a dedicated export-image function, but macOS provides simple built-in tools to capture plots directly from the screen.
-
-![Spectro Plot window prepared for screenshot capture](images/saving-plots-window-capture.png)
-
-### Capture a selected area
-
-Press **Shift + Command (⌘) + 4**.
-
-- Your cursor becomes a crosshair.
-- Click and drag to select the plot area.
-- Release to capture.
-
-The image is saved automatically to your Desktop by default.
-
-### Capture a specific window
-
-Press **Shift + Command (⌘) + 4**, then press **Spacebar**.
-
-- The cursor changes to a camera icon.
-- Click on the Spectro Plot window.
-- The entire window is captured cleanly.
-
-### Additional screenshot options
-
-Press **Shift + Command (⌘) + 5**.
-
-This opens the macOS screenshot toolbar, where you can:
-
-- choose where screenshots are saved;
-- set a timer;
-- select capture modes, including window, selection, and full screen.
+Use the toolbar Export PNG button, or choose File > Export Plot as PNG, to save the current chart view directly as an image file for observing notes, reports, presentations, or sharing. The exported image reflects the currently displayed plot, including visible profiles, annotations, zoom state, and other chart settings.
 
 ### Tips for best results
 
